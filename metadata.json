@@ -1,0 +1,5 @@
+{
+  "name": "Megatech's Creative Lab",
+  "description": "An AI-powered dashboard for MegaTech Solutions to automate the generation of marketing creatives. Features include a variety of output formats (social posts, banners), a library of past creations, and festival theme support.",
+  "requestFramePermissions": []
+}
